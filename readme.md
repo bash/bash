@@ -6,7 +6,8 @@ My interests include:
 * [Functional Programming](https://github.com/polyadic/funcky)
 * Parsers
 
-I'm currently studying mathematics at the [University of Zurich][UZH]. \
+I'm currently studying mathematics at the [University of Zurich][UZH].
+
 In my spare time I enjoy working on side projects, contributing to open source \
 and playing story driven or puzzle games.
 
