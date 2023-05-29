@@ -1,4 +1,6 @@
-Hi there, I'm Ruben. My interests include:
+Hi there, I'm Ruben. 👋
+
+My interests include:
 * Software Development (Rust, C#, Web Stuffs, ...)
 * Software Architecture (Clean Architecture, API Design)
 * [Functional Programming](https://github.com/polyadic/funcky)
