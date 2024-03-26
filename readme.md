@@ -1,14 +1,8 @@
 Hi there, I'm Tau. 👋
 
-My interests include:
-* Software Development (Rust, C#, Web Stuffs, ...)
-* Software Architecture (Clean Architecture, API Design)
-* [Functional Programming](https://github.com/polyadic/funcky)
-* Parsers
+I'm currently in a very deep rabbit hole trying
+to bring automatic dark/light detection to
+terminals and applications running inside terminals.
 
-I'm currently studying mathematics at the [University of Zurich][UZH].
-
-In my spare time I enjoy working on side projects, contributing to open source \
-and playing story driven or puzzle games.
-
-[UZH]: https://www.uzh.ch/
+Some very rough notes can be found in my
+[agenda](https://github.com/bash/terminal-dark-light-agenda) repository.
